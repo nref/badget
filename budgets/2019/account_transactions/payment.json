@@ -1,0 +1,9 @@
+{
+    "when" : "2019-12-01 16:30:00",
+    "account" : "Checking",
+    "payee" : "Discover",
+    "isTransfer" : true,
+    "memo" : "",
+    "value" : "-500",
+    "category" : ""
+}

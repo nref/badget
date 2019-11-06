@@ -1,0 +1,9 @@
+{
+    "when" : "2019-12-01 13:30:00",
+    "account" : "Checking",
+    "payee" : "Cash",
+    "isTransfer" : true,
+    "memo" : "",
+    "value" : "-2000",
+    "category" : ""
+}

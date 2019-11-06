@@ -1,0 +1,7 @@
+{
+    "when" : "2019-12-01 12:30:00",
+    "toCategory" : "Savings/Car Maintenance",
+    "fromCategory" : "Unbudgeted",
+    "memo" : "",
+    "value" : "100"
+}

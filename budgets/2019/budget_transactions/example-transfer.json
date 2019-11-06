@@ -1,0 +1,7 @@
+{
+    "when" : "2019-12-01 11:30:00",
+    "toCategory" : "Savings/Car Maintenance",
+    "fromCategory" : "Medical/Qualified",
+    "memo" : "",
+    "value" : "-100"
+}

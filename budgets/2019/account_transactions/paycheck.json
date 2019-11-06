@@ -1,0 +1,24 @@
+{
+    "when" : "2019-12-01 12:30:00",
+    "account" : "Checking",
+    "payee" : "Example Inc",
+    "isTransfer" : false,
+    "memo" : "",
+    "value" : "2000",
+    "category" : {
+        "split" : [
+            {
+                "payee" : "Example Inc",
+                "category" : "Unbudgeted",
+                "memo" : "paycheck",
+                "value" : "3000"
+            },
+            {
+                "payee" : "Example Inc",
+                "category" : "Deductions/Taxes",
+                "memo" : "paycheck",
+                "value" : "-1000"
+            }
+        ]
+    }
+}
